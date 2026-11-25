@@ -1,0 +1,6 @@
+{
+  "name": "Ví Tiết Kiệm Cá Nhân",
+  "description": "Ứng dụng web quản lý tiết kiệm tiền cá nhân VNĐ lưu trữ cơ sở dữ liệu Turso, quét tờ tiền Camera AI (phân quyền bởi admin), quản lý tài khoản và trợ lý AI hướng dẫn thiền định.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
